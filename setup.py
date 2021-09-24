@@ -8,7 +8,7 @@ setup(
   author = 'Voidoffi',                   # Type in your name
   author_email = 'jonas.charrier1@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Voidoffi/prntovr',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Voidoffi/prntovr/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Voidoffi/prntovr/archive/v0.1.tar.gz',    # I explain this later on
   keywords = ['Built-in', 'Print', 'Overrider'],   # Keywords that define your package best
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
